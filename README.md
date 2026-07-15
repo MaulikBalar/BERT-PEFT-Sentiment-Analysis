@@ -33,5 +33,10 @@ while comparing their:
 - Weights & Biases
 
 ---
+## Results
+
+### Full Fine-Tuning Loss Curve
+
+![Full Fine-Tuning Loss](outputs/full_finetuning_loss.png)
 
 🚧 This repository is currently under development.
